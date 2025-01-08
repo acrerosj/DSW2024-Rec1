@@ -1,0 +1,16 @@
+{
+    "name": "dsw/rec1",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Dsw\\Rec1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Andrés Crespo",
+            "email": "acrerosj@canariaseducacion.es"
+        }
+    ],
+    "require": {}
+}
